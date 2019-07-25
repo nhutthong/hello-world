@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi, I'm Nguyen Nhut Thong
+I very like programming. I'm student of CTU
